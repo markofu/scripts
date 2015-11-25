@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/28434/nmap/libpcap/Win32/Src
+END
+ffs.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/28434/nmap/libpcap/Win32/Src/ffs.c
+END
+inet_pton.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/28434/nmap/libpcap/Win32/Src/inet_pton.c
+END
+inet_aton.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/28434/nmap/libpcap/Win32/Src/inet_aton.c
+END
+gai_strerror.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/28434/nmap/libpcap/Win32/Src/gai_strerror.c
+END
+getopt.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/28434/nmap/libpcap/Win32/Src/getopt.c
+END
+inet_net.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/28434/nmap/libpcap/Win32/Src/inet_net.c
+END
+getaddrinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/28434/nmap/libpcap/Win32/Src/getaddrinfo.c
+END
+getservent.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/28434/nmap/libpcap/Win32/Src/getservent.c
+END
+getnetbynm.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/28434/nmap/libpcap/Win32/Src/getnetbynm.c
+END
+getnetent.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/28434/nmap/libpcap/Win32/Src/getnetent.c
+END

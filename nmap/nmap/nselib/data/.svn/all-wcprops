@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/!svn/ver/32753/nmap/nselib/data
+END
+mgroupnames.db
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/30323/nmap/nselib/data/mgroupnames.db
+END
+pixel.gif
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/31043/nmap/nselib/data/pixel.gif
+END
+passwords.lst
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/30348/nmap/nselib/data/passwords.lst
+END
+mysql-cis.audit
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/32700/nmap/nselib/data/mysql-cis.audit
+END
+vhosts-full.lst
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/29399/nmap/nselib/data/vhosts-full.lst
+END
+tftplist.txt
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/26805/nmap/nselib/data/tftplist.txt
+END
+http-sql-errors.lst
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/29091/nmap/nselib/data/http-sql-errors.lst
+END
+http-web-files-extensions.lst
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/29046/nmap/nselib/data/http-web-files-extensions.lst
+END
+rtsp-urls.txt
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/26939/nmap/nselib/data/rtsp-urls.txt
+END
+http-folders.txt
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/20762/nmap/nselib/data/http-folders.txt
+END
+snmpcommunities.lst
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/30348/nmap/nselib/data/snmpcommunities.lst
+END
+ssl-ciphers
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/32517/nmap/nselib/data/ssl-ciphers
+END
+dns-srv-names
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/32491/nmap/nselib/data/dns-srv-names
+END
+drupal-modules.lst
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/28586/nmap/nselib/data/drupal-modules.lst
+END
+ike-fingerprints.lua
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/32700/nmap/nselib/data/ike-fingerprints.lua
+END
+packetdecoders.lua
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/32669/nmap/nselib/data/packetdecoders.lua
+END
+http-devframework-fingerprints.lua
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/32752/nmap/nselib/data/http-devframework-fingerprints.lua
+END
+usernames.lst
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/8728/nmap/nselib/data/usernames.lst
+END
+oracle-sids
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/16347/nmap/nselib/data/oracle-sids
+END
+oracle-default-accounts.lst
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/26325/nmap/nselib/data/oracle-default-accounts.lst
+END
+http-default-accounts-fingerprints.lua
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/32753/nmap/nselib/data/http-default-accounts-fingerprints.lua
+END
+wp-plugins.lst
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/28241/nmap/nselib/data/wp-plugins.lst
+END
+http-fingerprints.lua
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/32700/nmap/nselib/data/http-fingerprints.lua
+END
+favicon-db
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/23209/nmap/nselib/data/favicon-db
+END
+ssl-fingerprints
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/32402/nmap/nselib/data/ssl-fingerprints
+END
+vhosts-default.lst
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/32488/nmap/nselib/data/vhosts-default.lst
+END

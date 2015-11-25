@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/30913/nmap/libdnet-stripped
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/26721/nmap/libdnet-stripped/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/14809/nmap/libdnet-stripped/Makefile.in
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/10270/nmap/libdnet-stripped/LICENSE
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/26721/nmap/libdnet-stripped/configure.in
+END
+THANKS
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/10270/nmap/libdnet-stripped/THANKS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/10270/nmap/libdnet-stripped/README
+END
+acconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/16458/nmap/libdnet-stripped/acconfig.h
+END
+Makefile.am.common
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/10270/nmap/libdnet-stripped/Makefile.am.common
+END
+dnet-config.in
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/10270/nmap/libdnet-stripped/dnet-config.in
+END
+NMAP_MODIFICATIONS
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/30913/nmap/libdnet-stripped/NMAP_MODIFICATIONS
+END
+libdnet-stripped.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/30604/nmap/libdnet-stripped/libdnet-stripped.vcxproj
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/10270/nmap/libdnet-stripped/TODO
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/10270/nmap/libdnet-stripped/INSTALL
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/14808/nmap/libdnet-stripped/Makefile.am
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/14809/nmap/libdnet-stripped/aclocal.m4
+END

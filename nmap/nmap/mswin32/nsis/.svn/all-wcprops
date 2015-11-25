@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/!svn/ver/32647/nmap/mswin32/nsis
+END
+AddToPath.nsh
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/3084/nmap/mswin32/nsis/AddToPath.nsh
+END
+final.ini
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/7833/nmap/mswin32/nsis/final.ini
+END
+Nmap.nsi.in
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/32647/nmap/mswin32/nsis/Nmap.nsi.in
+END
+shortcuts.ini
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/5486/nmap/mswin32/nsis/shortcuts.ini
+END

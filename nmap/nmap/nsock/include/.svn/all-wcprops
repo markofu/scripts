@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/!svn/ver/32741/nmap/nsock/include
+END
+nsock.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/32741/nmap/nsock/include/nsock.h
+END
+nsock_winconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/30348/nmap/nsock/include/nsock_winconfig.h
+END
+nsock_config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/31562/nmap/nsock/include/nsock_config.h.in
+END

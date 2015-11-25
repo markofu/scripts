@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/31574/nmap/zenmap/share/zenmap/config
+END
+zenmap_version
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/31574/nmap/zenmap/share/zenmap/config/zenmap_version
+END
+scan_profile.usp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/27104/nmap/zenmap/share/zenmap/config/scan_profile.usp
+END
+zenmap.conf
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/27104/nmap/zenmap/share/zenmap/config/zenmap.conf
+END

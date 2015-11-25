@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/!svn/ver/31696/nmap/libpcre
+END
+pcre.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/!svn/ver/6840/nmap/libpcre/pcre.h
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/25732/nmap/libpcre/configure
+END
+pcre_compile.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/6840/nmap/libpcre/pcre_compile.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/25732/nmap/libpcre/Makefile.in
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/!svn/ver/6840/nmap/libpcre/AUTHORS
+END
+pcre_xclass.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/6840/nmap/libpcre/pcre_xclass.c
+END
+pcre_newline.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/6840/nmap/libpcre/pcre_newline.c
+END
+pcre_config.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/6840/nmap/libpcre/pcre_config.c
+END
+pcre-config.in
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/5572/nmap/libpcre/pcre-config.in
+END
+pcre_maketables.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/6840/nmap/libpcre/pcre_maketables.c
+END
+pcre_chartables.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/6609/nmap/libpcre/pcre_chartables.c
+END
+LICENCE
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/!svn/ver/23311/nmap/libpcre/LICENCE
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/25732/nmap/libpcre/configure.ac
+END
+pcre_ucp_searchfuncs.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/6840/nmap/libpcre/pcre_ucp_searchfuncs.c
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/!svn/ver/5572/nmap/libpcre/INSTALL
+END
+pcre_ord2utf8.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/6840/nmap/libpcre/pcre_ord2utf8.c
+END
+pcre_fullinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/6840/nmap/libpcre/pcre_fullinfo.c
+END
+pcre_get.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/6840/nmap/libpcre/pcre_get.c
+END
+ucpinternal.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/5572/nmap/libpcre/ucpinternal.h
+END
+pcre_try_flipped.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/6840/nmap/libpcre/pcre_try_flipped.c
+END
+pcre_globals.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/6840/nmap/libpcre/pcre_globals.c
+END
+pcre_refcount.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/6840/nmap/libpcre/pcre_refcount.c
+END
+pcre_version.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/6840/nmap/libpcre/pcre_version.c
+END
+pcre_winconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/4209/nmap/libpcre/pcre_winconfig.h
+END
+pcre.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/6840/nmap/libpcre/pcre.h.in
+END
+pcre_info.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/6840/nmap/libpcre/pcre_info.c
+END
+ucptable.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/6840/nmap/libpcre/ucptable.h
+END
+pcre_dfa_exec.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/6840/nmap/libpcre/pcre_dfa_exec.c
+END
+pcre.h.generic
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/6840/nmap/libpcre/pcre.h.generic
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/!svn/ver/6840/nmap/libpcre/README
+END
+pcreposix.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/6840/nmap/libpcre/pcreposix.c
+END
+pcre_valid_utf8.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/6840/nmap/libpcre/pcre_valid_utf8.c
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/26631/nmap/libpcre/config.h.in
+END
+pcre_study.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/6840/nmap/libpcre/pcre_study.c
+END
+pcreposix.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/6840/nmap/libpcre/pcreposix.h
+END
+NMAP_MODIFICATIONS
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/25732/nmap/libpcre/NMAP_MODIFICATIONS
+END
+pcre_chartables.c.dist
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/6609/nmap/libpcre/pcre_chartables.c.dist
+END
+pcre_tables.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/6840/nmap/libpcre/pcre_tables.c
+END
+NON-UNIX-USE
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/6840/nmap/libpcre/NON-UNIX-USE
+END
+dftables.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/6840/nmap/libpcre/dftables.c
+END
+config.h.generic
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/6840/nmap/libpcre/config.h.generic
+END
+libpcre.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/30604/nmap/libpcre/libpcre.vcxproj
+END
+pcre_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/6840/nmap/libpcre/pcre_internal.h
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/13599/nmap/libpcre/aclocal.m4
+END
+ucp.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/!svn/ver/5572/nmap/libpcre/ucp.h
+END
+pcre_exec.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/6840/nmap/libpcre/pcre_exec.c
+END

@@ -1,0 +1,9 @@
+K 13
+svn:mergeinfo
+V 307
+/nmap-exp/d33tah/ncat-env-conninfo/ncat/ncat_posix.c:31368-31516
+/nmap-exp/d33tah/ncat-lua/ncat/ncat_posix.c:30922-31210
+/nmap-exp/david/ipv6-ranges/ncat/ncat_posix.c:30433-30436,30478-30527
+/nmap-exp/david/xml-output/ncat/ncat_posix.c:29485-29569
+/nmap-exp/henri/nsock-logging/ncat/ncat_posix.c:30339-30402
+END

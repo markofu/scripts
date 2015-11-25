@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 53
+INSTALLED_FILES
+zenmap.py
+build
+dist
+win_install.log
+
+END

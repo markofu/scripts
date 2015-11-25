@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/32646/nmap/mswin32/winpcap/x64
+END
+npf.sys
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/32646/nmap/mswin32/winpcap/x64/npf.sys
+END
+wpcap.dll
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/32646/nmap/mswin32/winpcap/x64/wpcap.dll
+END

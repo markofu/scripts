@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 25
+/!svn/ver/32747/nmap/docs
+END
+device-types.txt
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/23226/nmap/docs/device-types.txt
+END
+nse-scripts.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/22075/nmap/docs/nse-scripts.dtd
+END
+legal-notices.xml
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/32747/nmap/docs/legal-notices.xml
+END
+zenmap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/!svn/ver/30367/nmap/docs/zenmap.xml
+END
+zenmap.1
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/!svn/ver/31897/nmap/docs/zenmap.1
+END
+refguide.xml
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/32747/nmap/docs/refguide.xml
+END
+nmap.1
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/!svn/ver/31897/nmap/docs/nmap.1
+END
+nmap-usage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/18879/nmap/docs/nmap-usage.xml
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/!svn/ver/6728/nmap/docs/README
+END
+nmap-install.xml
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/31653/nmap/docs/nmap-install.xml
+END
+nmap.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/!svn/ver/21542/nmap/docs/nmap.xsl
+END
+nmap-man-enclosure.xml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/26274/nmap/docs/nmap-man-enclosure.xml
+END
+scripting.xml
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/32747/nmap/docs/scripting.xml
+END
+nmap-fo.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/30536/nmap/docs/nmap-fo.xsl
+END
+nmap_gpgkeys.txt
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/6728/nmap/docs/nmap_gpgkeys.txt
+END
+committers.txt
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/29142/nmap/docs/committers.txt
+END
+nmap.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/!svn/ver/29570/nmap/docs/nmap.dtd
+END
+3rd-party-licenses.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/29907/nmap/docs/3rd-party-licenses.txt
+END
+nmap-update.xml
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/27730/nmap/docs/nmap-update.xml
+END
+nmap-update.1
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/31897/nmap/docs/nmap-update.1
+END
+leet-nmap-ascii-art.txt
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/16041/nmap/docs/leet-nmap-ascii-art.txt
+END
+nmap.usage.txt
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/31574/nmap/docs/nmap.usage.txt
+END
+win32-installer-zenmap-buildguide.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/30269/nmap/docs/win32-installer-zenmap-buildguide.txt
+END

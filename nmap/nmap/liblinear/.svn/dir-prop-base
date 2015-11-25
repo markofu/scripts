@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 59
+*.a
+*.o
+Debug
+Release
+liblinear.vcxproj.user
+liblinear.lib
+
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/!svn/ver/32646/nmap/mswin32/winpcap
+END
+Upgrading-Instructions.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/17011/nmap/mswin32/winpcap/Upgrading-Instructions.txt
+END
+npf.sys
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/32646/nmap/mswin32/winpcap/npf.sys
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/32646/nmap/mswin32/winpcap/LICENSE
+END
+winpcap-nmap.nsi
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/32646/nmap/mswin32/winpcap/winpcap-nmap.nsi
+END
+wpcap.dll
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/32646/nmap/mswin32/winpcap/wpcap.dll
+END
+final.ini
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/7833/nmap/mswin32/winpcap/final.ini
+END
+options.ini
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/29125/nmap/mswin32/winpcap/options.ini
+END
+rpcapd.exe
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/32646/nmap/mswin32/winpcap/rpcapd.exe
+END
+pthreadVC.dll
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/3274/nmap/mswin32/winpcap/pthreadVC.dll
+END

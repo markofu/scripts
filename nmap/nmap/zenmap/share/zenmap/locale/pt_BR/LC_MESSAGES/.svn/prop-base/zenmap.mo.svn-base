@@ -1,0 +1,11 @@
+K 13
+svn:mergeinfo
+V 297
+/nmap-exp/david/ipv6-ranges/zenmap/share/zenmap/locale/pt_BR/LC_MESSAGES/zenmap.mo:30433-30436,30478-30527
+/nmap-exp/david/xml-output/zenmap/share/zenmap/locale/pt_BR/LC_MESSAGES/zenmap.mo:29485-29569
+/nmap-exp/henri/nsock-logging/zenmap/share/zenmap/locale/pt_BR/LC_MESSAGES/zenmap.mo:30339-30402
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END

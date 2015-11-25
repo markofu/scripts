@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/28458/nmap/libpcap/NMAP_MODIFICATIONS
+END
+0001-Don-t-autogenerate-Lex-Yacc-files.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/28458/nmap/libpcap/NMAP_MODIFICATIONS/0001-Don-t-autogenerate-Lex-Yacc-files.patch
+END
+pre-configure.patch
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/28458/nmap/libpcap/NMAP_MODIFICATIONS/pre-configure.patch
+END
+0004-Include-netpacket-packet.h-before-pcap-bpf.h.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/28458/nmap/libpcap/NMAP_MODIFICATIONS/0004-Include-netpacket-packet.h-before-pcap-bpf.h.patch
+END
+HOWTO-UPGRADE
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/28458/nmap/libpcap/NMAP_MODIFICATIONS/HOWTO-UPGRADE
+END
+0003-Add-a-memset-call-that-removes-a-Valgrind-error.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/28458/nmap/libpcap/NMAP_MODIFICATIONS/0003-Add-a-memset-call-that-removes-a-Valgrind-error.patch
+END
+0002-Add-the-disable-packet-ring-configure-option.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/28458/nmap/libpcap/NMAP_MODIFICATIONS/0002-Add-the-disable-packet-ring-configure-option.patch
+END

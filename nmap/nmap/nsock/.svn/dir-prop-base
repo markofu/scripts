@@ -1,0 +1,18 @@
+K 10
+svn:ignore
+V 43
+Debug
+Release
+nsock.lib
+nsock.vcxproj.user
+
+K 13
+svn:mergeinfo
+V 279
+/nmap-exp/david/ipv6-ranges/nsock:30433-30436,30478-30527
+/nmap-exp/david/xml-output/nsock:29485-29569
+/nmap-exp/henri/nsock-engines:24619-27775
+/nmap-exp/henri/nsock-logging/nsock:30339-30402
+/nmap-exp/patrick/nmap/nsock:27803-27902
+/nmap-exp/patrick/nse-lua52/nsock:27922-28710
+END

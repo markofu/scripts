@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/!svn/ver/32773/nmap/ncat/test
+END
+test-environment.lua
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/32419/nmap/ncat/test/test-environment.lua
+END
+test-cmdline-split.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/27104/nmap/ncat/test/test-cmdline-split.c
+END
+addrset.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/31802/nmap/ncat/test/addrset.c
+END
+test-wildcard.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/32742/nmap/ncat/test/test-wildcard.c
+END
+test-cert.pem
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/27104/nmap/ncat/test/test-cert.pem
+END
+test-environment.sh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/31517/nmap/ncat/test/test-environment.sh
+END
+ncat-test.pl
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/32773/nmap/ncat/test/ncat-test.pl
+END
+test-addrset.sh
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/32551/nmap/ncat/test/test-addrset.sh
+END
+test-uri.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/27104/nmap/ncat/test/test-uri.c
+END
+toupper.lua
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/31399/nmap/ncat/test/toupper.lua
+END

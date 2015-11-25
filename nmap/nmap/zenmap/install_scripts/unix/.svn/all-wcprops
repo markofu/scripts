@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/30351/nmap/zenmap/install_scripts/unix
+END
+zenmap.desktop
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/27441/nmap/zenmap/install_scripts/unix/zenmap.desktop
+END
+zenmap-root.desktop
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/27441/nmap/zenmap/install_scripts/unix/zenmap-root.desktop
+END
+su-to-zenmap.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/30351/nmap/zenmap/install_scripts/unix/su-to-zenmap.sh
+END

@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 6
+*.pyc
+
+K 13
+svn:mergeinfo
+V 216
+/nmap-exp/david/ipv6-ranges/zenmap/zenmapGUI/higwidgets:30433-30436,30478-30527
+/nmap-exp/david/xml-output/zenmap/zenmapGUI/higwidgets:29485-29569
+/nmap-exp/henri/nsock-logging/zenmap/zenmapGUI/higwidgets:30339-30402
+END

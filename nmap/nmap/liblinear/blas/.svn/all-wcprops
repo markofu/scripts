@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/!svn/ver/30907/nmap/liblinear/blas
+END
+dnrm2.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/26631/nmap/liblinear/blas/dnrm2.c
+END
+daxpy.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/26631/nmap/liblinear/blas/daxpy.c
+END
+blas.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/26631/nmap/liblinear/blas/blas.h
+END
+blasp.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/26631/nmap/liblinear/blas/blasp.h
+END
+dscal.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/26631/nmap/liblinear/blas/dscal.c
+END
+ddot.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/26631/nmap/liblinear/blas/ddot.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/27784/nmap/liblinear/blas/Makefile
+END

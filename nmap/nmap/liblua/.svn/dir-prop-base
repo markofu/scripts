@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 59
+*.o
+liblua.a
+
+Debug
+Release
+liblua.lib
+liblua.vcxproj.user
+
+END

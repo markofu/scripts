@@ -1,0 +1,12 @@
+K 12
+svn:keywords
+V 2
+Id
+K 13
+svn:mergeinfo
+V 257
+/nmap-exp/david/ipv6-ranges/scripts/mysql-info.nse:30433-30436,30478-30527
+/nmap-exp/david/xml-output/scripts/mysql-info.nse:29485-29569
+/nmap-exp/patrick/nmap/scripts/mysql-info.nse:27803-27902
+/nmap-exp/patrick/nse-lua52/scripts/mysql-info.nse:27922-28710
+END

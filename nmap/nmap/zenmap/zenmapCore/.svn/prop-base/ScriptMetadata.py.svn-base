@@ -1,0 +1,7 @@
+K 13
+svn:mergeinfo
+V 240
+/nmap-exp/david/ipv6-ranges/zenmap/zenmapCore/ScriptMetadata.py:30433-30436,30478-30527
+/nmap-exp/david/xml-output/zenmap/zenmapCore/ScriptMetadata.py:29485-29569
+/nmap-exp/henri/nsock-logging/zenmap/zenmapCore/ScriptMetadata.py:30339-30402
+END

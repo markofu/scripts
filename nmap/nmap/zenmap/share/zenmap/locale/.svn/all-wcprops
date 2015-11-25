@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/31544/nmap/zenmap/share/zenmap/locale
+END
+pt_BR.po
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/30731/nmap/zenmap/share/zenmap/locale/pt_BR.po
+END
+ru.po
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/31544/nmap/zenmap/share/zenmap/locale/ru.po
+END
+fr.po
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/30731/nmap/zenmap/share/zenmap/locale/fr.po
+END
+de.po
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/30731/nmap/zenmap/share/zenmap/locale/de.po
+END
+hr.po
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/30731/nmap/zenmap/share/zenmap/locale/hr.po
+END
+xgettext-profile_editor.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/27104/nmap/zenmap/share/zenmap/locale/xgettext-profile_editor.py
+END
+ja.po
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/30731/nmap/zenmap/share/zenmap/locale/ja.po
+END
+pl.po
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/30899/nmap/zenmap/share/zenmap/locale/pl.po
+END
+it.po
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/30731/nmap/zenmap/share/zenmap/locale/it.po
+END
+zenmap.pot
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/30730/nmap/zenmap/share/zenmap/locale/zenmap.pot
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/30347/nmap/zenmap/share/zenmap/locale/Makefile
+END

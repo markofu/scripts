@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/!svn/ver/32741/nmap/nmap-update
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/27522/nmap/nmap-update/config.h.in
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/29827/nmap/nmap-update/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/29827/nmap/nmap-update/Makefile.in
+END
+default_channel.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/28669/nmap/nmap-update/default_channel.h
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/29827/nmap/nmap-update/configure.ac
+END
+nmap-update.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/29909/nmap/nmap-update/nmap-update.vcxproj
+END
+svn_auth.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/27746/nmap/nmap-update/svn_auth.c
+END
+win_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/27578/nmap/nmap-update/win_config.h
+END
+nmap-update.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/32741/nmap/nmap-update/nmap-update.c
+END

@@ -1,0 +1,24 @@
+K 13
+svn:externals
+V 1
+
+
+K 10
+svn:ignore
+V 131
+*.o
+
+Makefile
+makefile.dep
+config.log
+config.h
+config.status
+autom4te.cache
+ncat
+Debug
+Release
+ncat.ncb
+ncat.suo
+ncat.vcxproj.user
+
+END

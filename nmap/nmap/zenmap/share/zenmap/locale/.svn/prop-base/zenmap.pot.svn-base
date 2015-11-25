@@ -1,0 +1,7 @@
+K 13
+svn:mergeinfo
+V 246
+/nmap-exp/david/ipv6-ranges/zenmap/share/zenmap/locale/zenmap.pot:30433-30436,30478-30527
+/nmap-exp/david/xml-output/zenmap/share/zenmap/locale/zenmap.pot:29485-29569
+/nmap-exp/henri/nsock-logging/zenmap/share/zenmap/locale/zenmap.pot:30339-30402
+END

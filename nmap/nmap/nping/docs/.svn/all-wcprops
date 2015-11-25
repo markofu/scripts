@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/!svn/ver/32748/nmap/nping/docs
+END
+nping-man.xml
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/31131/nmap/nping/docs/nping-man.xml
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/30349/nmap/nping/docs/AUTHORS
+END
+leet-nping-ascii-art.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/27104/nmap/nping/docs/leet-nping-ascii-art.txt
+END
+nping.1
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/31897/nmap/nping/docs/nping.1
+END
+EchoProtoRFC.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/32748/nmap/nping/docs/EchoProtoRFC.txt
+END
+nping-usage.txt
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/27104/nmap/nping/docs/nping-usage.txt
+END
+npingmanhtml.xml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/27104/nmap/nping/docs/npingmanhtml.xml
+END
+nping-usage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/27104/nmap/nping/docs/nping-usage.xml
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/!svn/ver/3838/nmap/libpcap/SUNOS4
+END
+nit_if.o.sun4c.4.0.3c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/3838/nmap/libpcap/SUNOS4/nit_if.o.sun4c.4.0.3c
+END
+nit_if.o.sparc
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/3838/nmap/libpcap/SUNOS4/nit_if.o.sparc
+END
+nit_if.o.sun3
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/3838/nmap/libpcap/SUNOS4/nit_if.o.sun3
+END

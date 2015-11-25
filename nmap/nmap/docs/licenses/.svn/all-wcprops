@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/!svn/ver/22778/nmap/docs/licenses
+END
+OpenSSL.txt
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/20850/nmap/docs/licenses/OpenSSL.txt
+END
+MPL-1.1
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/20848/nmap/docs/licenses/MPL-1.1
+END
+BSD-simplified
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/22778/nmap/docs/licenses/BSD-simplified
+END
+LGPL-2.1
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/20848/nmap/docs/licenses/LGPL-2.1
+END
+LGPL-2
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/20848/nmap/docs/licenses/LGPL-2
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/!svn/ver/32763/nmap/zenmap
+END
+COPYING_HIGWIDGETS
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/27104/nmap/zenmap/COPYING_HIGWIDGETS
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/!svn/ver/32634/nmap/zenmap/setup.py
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/!svn/ver/27104/nmap/zenmap/COPYING
+END
+zenmap
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/!svn/ver/32634/nmap/zenmap/zenmap
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/!svn/ver/27104/nmap/zenmap/README
+END

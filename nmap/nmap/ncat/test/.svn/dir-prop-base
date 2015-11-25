@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 54
+*.o
+addrset
+test-cmdline-split
+test-uri
+test-wildcard
+
+END

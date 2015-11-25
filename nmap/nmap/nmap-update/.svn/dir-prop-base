@@ -1,0 +1,17 @@
+K 10
+svn:ignore
+V 127
+*.o
+
+makefile.dep
+config.log
+config.status
+config.h
+nmap-update
+Makefile
+Debug
+Release
+nmap-update.vcxproj.user
+autom4te.cache
+
+END

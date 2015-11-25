@@ -1,0 +1,192 @@
+
+Starting Nmap 6.41SVN ( http://nmap.org ) at 2014-02-10 11:57 GMT
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.00012s latency).
+PORT    STATE SERVICE
+123/udp open  ntp
+| ntp-monlist: 
+|   Target is synchronised with 17.171.4.33
+|   Alternative Target Interfaces:
+|       10.220.3.94     
+|   Public Servers (1)
+|       17.171.4.33     
+|   Private Clients (1)
+|_      127.0.0.1       
+
+Nmap done: 1 IP address (1 host up) scanned in 0.05 seconds
+
+Starting Nmap 6.41SVN ( http://nmap.org ) at 2014-02-10 11:57 GMT
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.00012s latency).
+PORT    STATE SERVICE
+123/udp open  ntp
+| ntp-monlist: 
+|   Target is synchronised with 17.171.4.33
+|   Alternative Target Interfaces:
+|       10.220.3.94     
+|   Public Servers (1)
+|       17.171.4.33     
+|   Private Clients (1)
+|_      127.0.0.1       
+
+Nmap done: 1 IP address (1 host up) scanned in 0.05 seconds
+
+Starting Nmap 6.41SVN ( http://nmap.org ) at 2014-02-10 11:57 GMT
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.00012s latency).
+PORT    STATE SERVICE
+123/udp open  ntp
+| ntp-monlist: 
+|   Target is synchronised with 17.171.4.33
+|   Alternative Target Interfaces:
+|       10.220.3.94     
+|   Public Servers (1)
+|       17.171.4.33     
+|   Private Clients (1)
+|_      127.0.0.1       
+
+Nmap done: 1 IP address (1 host up) scanned in 0.05 seconds
+
+Starting Nmap 6.41SVN ( http://nmap.org ) at 2014-02-10 11:57 GMT
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.00012s latency).
+PORT    STATE SERVICE
+123/udp open  ntp
+| ntp-monlist: 
+|   Target is synchronised with 17.171.4.33
+|   Alternative Target Interfaces:
+|       10.220.3.94     
+|   Public Servers (1)
+|       17.171.4.33     
+|   Private Clients (1)
+|_      127.0.0.1       
+
+Nmap done: 1 IP address (1 host up) scanned in 0.05 seconds
+
+Starting Nmap 6.41SVN ( http://nmap.org ) at 2014-02-10 11:57 GMT
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.00012s latency).
+PORT    STATE SERVICE
+123/udp open  ntp
+| ntp-monlist: 
+|   Target is synchronised with 17.171.4.33
+|   Alternative Target Interfaces:
+|       10.220.3.94     
+|   Public Servers (1)
+|       17.171.4.33     
+|   Private Clients (1)
+|_      127.0.0.1       
+
+Nmap done: 1 IP address (1 host up) scanned in 0.06 seconds
+
+Starting Nmap 6.41SVN ( http://nmap.org ) at 2014-02-10 11:57 GMT
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.00017s latency).
+PORT    STATE SERVICE
+123/udp open  ntp
+| ntp-monlist: 
+|   Target is synchronised with 17.171.4.33
+|   Alternative Target Interfaces:
+|       10.220.3.94     
+|   Public Servers (1)
+|       17.171.4.33     
+|   Private Clients (1)
+|_      127.0.0.1       
+
+Nmap done: 1 IP address (1 host up) scanned in 0.05 seconds
+
+Starting Nmap 6.41SVN ( http://nmap.org ) at 2014-02-10 11:57 GMT
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.00023s latency).
+PORT    STATE SERVICE
+123/udp open  ntp
+| ntp-monlist: 
+|   Target is synchronised with 17.171.4.33
+|   Alternative Target Interfaces:
+|       10.220.3.94     
+|   Public Servers (1)
+|       17.171.4.33     
+|   Private Clients (1)
+|_      127.0.0.1       
+
+Nmap done: 1 IP address (1 host up) scanned in 0.05 seconds
+
+Starting Nmap 6.41SVN ( http://nmap.org ) at 2014-02-10 11:57 GMT
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.00016s latency).
+PORT    STATE SERVICE
+123/udp open  ntp
+| ntp-monlist: 
+|   Target is synchronised with 17.171.4.33
+|   Alternative Target Interfaces:
+|       10.220.3.94     
+|   Public Servers (1)
+|       17.171.4.33     
+|   Private Clients (1)
+|_      127.0.0.1       
+
+Nmap done: 1 IP address (1 host up) scanned in 0.06 seconds
+
+Starting Nmap 6.41SVN ( http://nmap.org ) at 2014-02-10 11:57 GMT
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.00012s latency).
+PORT    STATE SERVICE
+123/udp open  ntp
+| ntp-monlist: 
+|   Target is synchronised with 17.171.4.33
+|   Alternative Target Interfaces:
+|       10.220.3.94     
+|   Public Servers (1)
+|       17.171.4.33     
+|   Private Clients (1)
+|_      127.0.0.1       
+
+Nmap done: 1 IP address (1 host up) scanned in 0.05 seconds
+
+Starting Nmap 6.41SVN ( http://nmap.org ) at 2014-02-10 11:57 GMT
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.00012s latency).
+PORT    STATE SERVICE
+123/udp open  ntp
+| ntp-monlist: 
+|   Target is synchronised with 17.171.4.33
+|   Alternative Target Interfaces:
+|       10.220.3.94     
+|   Public Servers (1)
+|       17.171.4.33     
+|   Private Clients (1)
+|_      127.0.0.1       
+
+Nmap done: 1 IP address (1 host up) scanned in 0.05 seconds
+
+Starting Nmap 6.41SVN ( http://nmap.org ) at 2014-02-10 11:57 GMT
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.00016s latency).
+PORT    STATE SERVICE
+123/udp open  ntp
+| ntp-monlist: 
+|   Target is synchronised with 17.171.4.33
+|   Alternative Target Interfaces:
+|       10.220.3.94     
+|   Public Servers (1)
+|       17.171.4.33     
+|   Private Clients (1)
+|_      127.0.0.1       
+
+Nmap done: 1 IP address (1 host up) scanned in 0.05 seconds
+
+Starting Nmap 6.41SVN ( http://nmap.org ) at 2014-02-10 11:57 GMT
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.00015s latency).
+PORT    STATE SERVICE
+123/udp open  ntp
+| ntp-monlist: 
+|   Target is synchronised with 17.171.4.33
+|   Alternative Target Interfaces:
+|       10.220.3.94     
+|   Public Servers (1)
+|       17.171.4.33     
+|   Private Clients (1)
+|_      127.0.0.1       
+
+Nmap done: 1 IP address (1 host up) scanned in 0.05 seconds

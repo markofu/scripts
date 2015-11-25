@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/27104/nmap/ncat/docs/examples/scripts/http-scan
+END
+iplist
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/27104/nmap/ncat/docs/examples/scripts/http-scan/iplist
+END
+get.request
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/27104/nmap/ncat/docs/examples/scripts/http-scan/get.request
+END
+scanner-output
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/27104/nmap/ncat/docs/examples/scripts/http-scan/scanner-output
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/27104/nmap/ncat/docs/examples/scripts/http-scan/README
+END
+scan-example
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/27104/nmap/ncat/docs/examples/scripts/http-scan/scan-example
+END

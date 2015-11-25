@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/!svn/ver/32743/nmap/ndiff
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/!svn/ver/32645/nmap/ndiff/setup.py
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/!svn/ver/10261/nmap/ndiff/COPYING
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/!svn/ver/14223/nmap/ndiff/README
+END
+ndiff.py
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/!svn/ver/32743/nmap/ndiff/ndiff.py
+END
+ndifftest.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/32645/nmap/ndiff/ndifftest.py
+END

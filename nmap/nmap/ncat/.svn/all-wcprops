@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 25
+/!svn/ver/32774/nmap/ncat
+END
+ncat_connect.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/32742/nmap/ncat/ncat_connect.c
+END
+ncat.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/32307/nmap/ncat/ncat.vcxproj
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/!svn/ver/32560/nmap/ncat/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/32307/nmap/ncat/Makefile.in
+END
+ncat_core.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/32707/nmap/ncat/ncat_core.h
+END
+ncat_win.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/!svn/ver/32400/nmap/ncat/ncat_win.c
+END
+ncat_listen.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/32742/nmap/ncat/ncat_listen.c
+END
+ncat_connect.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/32307/nmap/ncat/ncat_connect.h
+END
+ncat_exec_win.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/32742/nmap/ncat/ncat_exec_win.c
+END
+ncat_ssl.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/!svn/ver/32300/nmap/ncat/ncat_ssl.c
+END
+ncat_posix.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/32742/nmap/ncat/ncat_posix.c
+END
+sys_wrap.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/!svn/ver/32300/nmap/ncat/sys_wrap.c
+END
+ncat_listen.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/32300/nmap/ncat/ncat_listen.h
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/27104/nmap/ncat/config.guess
+END
+ncat_ssl.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/!svn/ver/32300/nmap/ncat/ncat_ssl.h
+END
+sys_wrap.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/!svn/ver/32300/nmap/ncat/sys_wrap.h
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/!svn/ver/27104/nmap/ncat/config.sub
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/!svn/ver/32309/nmap/ncat/util.c
+END
+http.c
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/!svn/ver/32774/nmap/ncat/http.c
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/!svn/ver/32300/nmap/ncat/util.h
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/32559/nmap/ncat/configure.ac
+END
+http.h
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/!svn/ver/32774/nmap/ncat/http.h
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/!svn/ver/27104/nmap/ncat/INSTALL
+END
+ncat_proxy.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/32774/nmap/ncat/ncat_proxy.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/!svn/ver/27104/nmap/ncat/COPYING
+END
+ncat_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/32742/nmap/ncat/ncat_main.c
+END
+ncat.h
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/!svn/ver/32707/nmap/ncat/ncat.h
+END
+ncat_proxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/32300/nmap/ncat/ncat_proxy.h
+END
+ncat_exec.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/32300/nmap/ncat/ncat_exec.h
+END
+mkinstalldirs
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/27104/nmap/ncat/mkinstalldirs
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/!svn/ver/27104/nmap/ncat/ChangeLog
+END
+http_digest.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/32742/nmap/ncat/http_digest.c
+END
+ncat_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/32300/nmap/ncat/ncat_config.h
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/30232/nmap/ncat/config.h.in
+END
+sockaddr_u.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/32300/nmap/ncat/sockaddr_u.h
+END
+base64.c
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/!svn/ver/32742/nmap/ncat/base64.c
+END
+ncat_lua.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/!svn/ver/32307/nmap/ncat/ncat_lua.c
+END
+config_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/32300/nmap/ncat/config_win.h
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/!svn/ver/27104/nmap/ncat/missing
+END
+base64.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/!svn/ver/32300/nmap/ncat/base64.h
+END
+ncat_lua.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/!svn/ver/32307/nmap/ncat/ncat_lua.h
+END
+ncat_core.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/32742/nmap/ncat/ncat_core.c
+END

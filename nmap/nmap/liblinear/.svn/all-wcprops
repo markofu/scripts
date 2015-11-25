@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/!svn/ver/30907/nmap/liblinear
+END
+linear.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/26631/nmap/liblinear/linear.h
+END
+tron.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/26631/nmap/liblinear/tron.cpp
+END
+linear.def
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/26631/nmap/liblinear/linear.def
+END
+COPYRIGHT
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/26631/nmap/liblinear/COPYRIGHT
+END
+tron.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/26631/nmap/liblinear/tron.h
+END
+Makefile.win
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/26631/nmap/liblinear/Makefile.win
+END
+liblinear.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/30604/nmap/liblinear/liblinear.vcxproj
+END
+linear.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/26631/nmap/liblinear/linear.cpp
+END
+predict.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/26631/nmap/liblinear/predict.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/26674/nmap/liblinear/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/26631/nmap/liblinear/README
+END
+train.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/26631/nmap/liblinear/train.c
+END

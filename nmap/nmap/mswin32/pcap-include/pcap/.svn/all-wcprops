@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/32748/nmap/mswin32/pcap-include/pcap
+END
+usb.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/17735/nmap/mswin32/pcap-include/pcap/usb.h
+END
+sll.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/17735/nmap/mswin32/pcap-include/pcap/sll.h
+END
+vlan.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/17735/nmap/mswin32/pcap-include/pcap/vlan.h
+END
+pcap.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/17735/nmap/mswin32/pcap-include/pcap/pcap.h
+END
+bluetooth.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/17735/nmap/mswin32/pcap-include/pcap/bluetooth.h
+END
+namedb.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/17735/nmap/mswin32/pcap-include/pcap/namedb.h
+END
+bpf.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/32748/nmap/mswin32/pcap-include/pcap/bpf.h
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/27104/nmap/nping/nping-dev/test/caps
+END
+tcpconnect_T1.cap
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/27104/nmap/nping/nping-dev/test/caps/tcpconnect_T1.cap
+END
+tcpconnect_T2.cap
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/27104/nmap/nping/nping-dev/test/caps/tcpconnect_T2.cap
+END
+tcpconnect_T3.cap
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/27104/nmap/nping/nping-dev/test/caps/tcpconnect_T3.cap
+END

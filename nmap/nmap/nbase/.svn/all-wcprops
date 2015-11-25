@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/!svn/ver/32750/nmap/nbase
+END
+nbase_addrset.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/32717/nmap/nbase/nbase_addrset.c
+END
+inet_ntop.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/31700/nmap/nbase/inet_ntop.c
+END
+inet_pton.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/31700/nmap/nbase/inet_pton.c
+END
+nbase_winconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/32300/nmap/nbase/nbase_winconfig.h
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/!svn/ver/32560/nmap/nbase/configure
+END
+nbase_memalloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/32300/nmap/nbase/nbase_memalloc.c
+END
+nbase_ipv6.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/32741/nmap/nbase/nbase_ipv6.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/27104/nmap/nbase/Makefile.in
+END
+nbase.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/30604/nmap/nbase/nbase.vcxproj
+END
+getopt.c
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/!svn/ver/32741/nmap/nbase/getopt.c
+END
+snprintf.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/32741/nmap/nbase/snprintf.c
+END
+nbase_misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/32741/nmap/nbase/nbase_misc.c
+END
+nbase_addrset.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/32300/nmap/nbase/nbase_addrset.h
+END
+strcasecmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/32300/nmap/nbase/strcasecmp.c
+END
+nbase_time.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/32741/nmap/nbase/nbase_time.c
+END
+CHANGELOG
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/!svn/ver/27104/nmap/nbase/CHANGELOG
+END
+getopt.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/!svn/ver/32717/nmap/nbase/getopt.h
+END
+nbase_winunix.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/32300/nmap/nbase/nbase_winunix.c
+END
+nbase_winunix.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/32741/nmap/nbase/nbase_winunix.h
+END
+nbase_crc32ct.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/32300/nmap/nbase/nbase_crc32ct.h
+END
+nbase_str.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/32741/nmap/nbase/nbase_str.c
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/32559/nmap/nbase/configure.ac
+END
+acinclude.m4
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/29833/nmap/nbase/acinclude.m4
+END
+getaddrinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/32300/nmap/nbase/getaddrinfo.c
+END
+nbase_config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/32300/nmap/nbase/nbase_config.h.in
+END
+nbase_rnd.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/32300/nmap/nbase/nbase_rnd.c
+END
+getnameinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/32300/nmap/nbase/getnameinfo.c
+END
+nbase.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/!svn/ver/32750/nmap/nbase/nbase.h
+END

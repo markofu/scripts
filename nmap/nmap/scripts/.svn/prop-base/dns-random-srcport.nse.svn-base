@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 289
+/nmap-exp/david/ipv6-ranges/scripts/dns-random-srcport.nse:30433-30436,30478-30527
+/nmap-exp/david/xml-output/scripts/dns-random-srcport.nse:29485-29569
+/nmap-exp/patrick/nmap/scripts/dns-random-srcport.nse:27803-27902
+/nmap-exp/patrick/nse-lua52/scripts/dns-random-srcport.nse:27922-28710
+END

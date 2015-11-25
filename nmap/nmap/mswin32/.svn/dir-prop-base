@@ -1,0 +1,15 @@
+K 10
+svn:ignore
+V 98
+Debug
+Release
+ipch
+nmap.sdf
+nmap.opensdf
+nmap.suo
+nmap.vcxproj.user
+nmap.rc
+LICENSE
+nmapbuild.log
+
+END

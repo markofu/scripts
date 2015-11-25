@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/8777/nmap/mswin32/license-format
+END
+licsed_1
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/8776/nmap/mswin32/license-format/licsed_1
+END
+licsed_2
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/8776/nmap/mswin32/license-format/licsed_2
+END
+licformat.sh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/8777/nmap/mswin32/license-format/licformat.sh
+END

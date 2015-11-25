@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/27104/nmap/nping/nping-dev/pythonscripts
+END
+TemplateGettersSetters.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/27104/nmap/nping/nping-dev/pythonscripts/TemplateGettersSetters.txt
+END
+addManSectionEntry.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/27104/nmap/nping/nping-dev/pythonscripts/addManSectionEntry.py
+END
+man-section-entry-template.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/27104/nmap/nping/nping-dev/pythonscripts/man-section-entry-template.xml
+END
+man-section-template.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/27104/nmap/nping/nping-dev/pythonscripts/man-section-template.xml
+END
+TemplateNpingOps.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/27104/nmap/nping/nping-dev/pythonscripts/TemplateNpingOps.txt
+END
+addGettersSetters.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/27104/nmap/nping/nping-dev/pythonscripts/addGettersSetters.py
+END
+addNpingOpsAttr.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/27104/nmap/nping/nping-dev/pythonscripts/addNpingOpsAttr.py
+END

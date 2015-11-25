@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/!svn/ver/32532/nmap/nsock/examples
+END
+nsock_test_timers.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/32532/nmap/nsock/examples/nsock_test_timers.c
+END
+nsock_telnet.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/32532/nmap/nsock/examples/nsock_telnet.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/27104/nmap/nsock/examples/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/27104/nmap/nsock/examples/README
+END
