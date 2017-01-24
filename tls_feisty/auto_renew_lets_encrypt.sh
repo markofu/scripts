@@ -5,6 +5,8 @@
 #
 # Add this script to your cron to run daily and it will automatically renew your cert within 2 weeks of its expiry date
 #
+# Running daily at 03:31, for example, in Crontab: "31 3 * * * /path/to/renew_cert.sh 2>> /var/log/lets-encrypt.log"
+#
 # Requirements :: python, openssl ( both should be there by default) and https://github.com/diafygi/acme-tiny
 
 # Some Variables
